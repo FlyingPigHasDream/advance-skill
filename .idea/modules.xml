@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/advance-skill.iml" filepath="$PROJECT_DIR$/advance-skill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skill-dynamicproxy/skill-dynamicproxy.iml" filepath="$PROJECT_DIR$/skill-dynamicproxy/skill-dynamicproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skill-reflect/skill-reflect.iml" filepath="$PROJECT_DIR$/skill-reflect/skill-reflect.iml" />
     </modules>
   </component>
 </project>
